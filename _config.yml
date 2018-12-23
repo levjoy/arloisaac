@@ -16,7 +16,7 @@
 title: Arlo Isaac BL
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A place for Arlo to document his ideas and thoughts!
+  A place for me to document my ideas and thoughts!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -24,7 +24,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
