@@ -9,3 +9,7 @@ permalink: /favorites/
 - Magic the Gathering
 - Games
 - Basketball
+- video games
+- chickens
+- reading
+- cupcakes
